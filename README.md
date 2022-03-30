@@ -1,12 +1,25 @@
-### Hi there 👋 <https://wang.zongsheng.im/>
+### Hi there 👋 <!--https://wang.zongsheng.im/-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwzsh&count_bg=%2374AEDA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+**About me**
+
+- 💼 Research Fellow at [Hallym Unv.](https://www.hallym.ac.kr/)
+
+- ❤️ Computer Graphic, Machine Learning
+
+- 💬 Ask me about anything [here](https://github.com/wzsh/wzsh/issues)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wzsh&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzsh&langs_count=8&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!--
 [![Zong-Sheng Wang's github stats](https://github-readme-stats.vercel.app/api?username=wzsh&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wzsh&langs_count=8&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+
 <div align = center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wzsh.github.io/)](https://wzsh.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blu3sh3ll@gmail.com)](mailto:blu3sh3ll@gmail.com)
