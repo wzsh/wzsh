@@ -15,7 +15,7 @@
 
 - 💼 Research Fellow at [Hallym Unv.](https://www.hallym.ac.kr/)
 
-- ❤️ Computer Graphic, Machine Learning
+- ❤️ Computer Graphics, Machine Learning
 
 - 📃 My Brief [CV](https://wang.zongsheng.im/cv_wzs_eng.pdf)
 
